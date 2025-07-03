@@ -1,0 +1,4 @@
+/azure_deploy/terraform.tfstate
+/azure_deploy/terraform.tfstate.backup
+/azure_deploy/.terraform
+/azure_deploy/.terraform.lock.hcl
