@@ -1,4 +1,4 @@
-# Todo-App
+# Todo-App 
 A production-ready Todo application with automated CI/CD, Docker containerization, and Terraform-managed Azure VM deployment.
 
 ## Features
